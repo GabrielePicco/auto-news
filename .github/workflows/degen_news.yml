@@ -1,4 +1,4 @@
-name: Produce from DegenNewws Twitter and Consume to Telegram Channel
+name: Produce from DegenNews Twitter and Consume to Telegram Channel
 
 # Controls when the workflow will run
 on:
